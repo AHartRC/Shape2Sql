@@ -1,0 +1,14 @@
+Updating '.':
+U    port\cpl_vsil_stdout.cpp
+U    apps\ogr2ogr.cpp
+U    ogr\ogr_srs_esri.cpp
+U    ogr\ogrsf_frmts\generic\ogr_gensql.cpp
+U    ogr\ogrsf_frmts\openfilegdb\ogropenfilegdblayer.cpp
+U    ogr\ogrsf_frmts\pg\ogrpgtablelayer.cpp
+U    frmts\vrt\vrtsources.cpp
+U    frmts\vrt\vrtrasterband.cpp
+U    frmts\wms\wmsdriver.cpp
+U    frmts\pds\frmt_pds.html
+U    frmts\pds\pdsdataset.cpp
+U    frmts\hfa\hfaband.cpp
+Updated to revision 30443.
